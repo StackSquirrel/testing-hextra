@@ -1,0 +1,81 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sqrrl testing hextra – 3D Printing</title>
+    <link>http://localhost:1313/tags/3d-printing/</link>
+    <description>Recent content in 3D Printing on Sqrrl testing hextra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Easy 3D printing of Braille</title>
+      <link>http://localhost:1313/blog/easy-3d-printing-of-braille/</link>
+      <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/easy-3d-printing-of-braille/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Wherein I digress&lt;/h1&gt;&lt;p&gt;Taking a break from the usual book review, I thought I would talk about something cool that turned out to be very easy, thanks to my local library.&lt;/p&gt;
+&lt;p&gt;I was talking to my instructor at the wonderful &lt;strong&gt;&lt;a href=&#34;http://www.hadley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hadley School for the Blind&lt;/a&gt;&lt;/strong&gt;, a correspondence school for blind people and those with low-vision (and their families). We were discussing clothing markers, which are attached to hangers and used to distinguish colours (blue, black, brown, etc.) when you can&amp;rsquo;t see them. There are various ways of doing this, using raised markers on paper or plastic tags, using Braille on tags, and there are several commercial solutions out there for this, as well.&lt;/p&gt;
+&lt;p&gt;Something I have been thinking about as a librarian is the 3D printer revolution that is happening in libraries across Canada and around the world.&lt;/p&gt;
+&lt;p&gt;An aside:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Seriously, check out your local public library to see if they have a 3D printer in their &amp;quot;maker space&amp;quot; or &amp;quot;innovation lab&amp;quot;. They are often inexpensive ways of making things like art or replacement parts for that pesky stroller thingy.
+
+If your library doesn&#39;t have some a) ask them to get one (they just might, unless they are being bled a slow budgetary death, which many are) or b) ask around your community to see if there is a hack lab nearby. These are places where interested members come together, usually on a Tuesday, to make stuff and help each other learn new skills.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Anyway, the conjunction of these two thoughts led me to think that 3D printing Braille clothing tags was a (nearly) obvious solution.&lt;/p&gt;
+&lt;p&gt;Two problems: I don&amp;rsquo;t read Braille (yet, though I &lt;em&gt;am&lt;/em&gt; learning) and all I knew about 3D printing was that it&amp;rsquo;s a thing. So, what&amp;rsquo;s to do? Ask the Internet, of course.&lt;/p&gt;
+&lt;p&gt;The answer, of course, is on GitHub, where user v01pe posted a tool to generate text to 3D printable Braille. How awesome is that? It&amp;rsquo;s an online tool &amp;ndash; in German &amp;ndash; that creates a downloadable file for a 3D printer.&lt;/p&gt;
+&lt;p&gt;So, I input my text and kept contracted Braille, the default, selected. I waited for a while, about a minute or so, and there was a downloadable STL file. I put it on a thumb drive and beetled off to the maker space in my public library.&lt;/p&gt;
+&lt;p&gt;The guy who worked there said the files were fine and ready to use. He set them up for me, trying various configurations to shorten the printing time (I was printing two of them at once), and let me choose a bright red plastic to print them in.&lt;/p&gt;
+&lt;p&gt;A couple of hours later, and I had printed Braille! [S]ee very short video.](&lt;a href=&#34;https://youtu.be/7SZFlv8hcZc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/7SZFlv8hcZc&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I snapped off the extra printed base (you can see it on the printer shot, above) from one of them, but left the base on the other one so it could stand up.&lt;/p&gt;
+&lt;p&gt;It was fun and easy and made me feel clever, which doesn&amp;rsquo;t always happen a lot. 🙂 Even better: the plastic they use is biodegradable, although chemically stable for a number of years.&lt;/p&gt;
+&lt;p&gt;Clever AND virtuous.&lt;/p&gt;
+&lt;p&gt;Now, for it to be useful for my original purpose &amp;ndash; clothing markers &amp;ndash; I would need to learn a bit more: how to extend the piece and add a little hole to put the hanger&amp;rsquo;s head through. The library offers &amp;ldquo;3D printer certification&amp;rdquo; workshops, where they teach you the software and how to use it. I think I will sign up.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Easy 3D printing of Braille</title>
+      <link>http://localhost:1313/easy-3d-printing-of-braille/</link>
+      <pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/easy-3d-printing-of-braille/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Wherein I digress&lt;/h1&gt;&lt;p&gt;Taking a break from the usual book review, I thought I would talk about something cool that turned out to be very easy, thanks to my local library.&lt;/p&gt;
+&lt;p&gt;I was talking to my instructor at the wonderful &lt;strong&gt;&lt;a href=&#34;http://www.hadley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hadley School for the Blind&lt;/a&gt;&lt;/strong&gt;, a correspondence school for blind people and those with low-vision (and their families). We were discussing clothing markers, which are attached to hangers and used to distinguish colours (blue, black, brown, etc.) when you can&amp;rsquo;t see them. There are various ways of doing this, using raised markers on paper or plastic tags, using Braille on tags, and there are several commercial solutions out there for this, as well.&lt;/p&gt;
+&lt;p&gt;Something I have been thinking about as a librarian is the 3D printer revolution that is happening in libraries across Canada and around the world.&lt;/p&gt;
+&lt;p&gt;An aside:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Seriously, check out your local public library to see if they have a 3D printer in their &amp;quot;maker space&amp;quot; or &amp;quot;innovation lab&amp;quot;. They are often inexpensive ways of making things like art or replacement parts for that pesky stroller thingy.
+
+If your library doesn&#39;t have some a) ask them to get one (they just might, unless they are being bled a slow budgetary death, which many are) or b) ask around your community to see if there is a hack lab nearby. These are places where interested members come together, usually on a Tuesday, to make stuff and help each other learn new skills.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Anyway, the conjunction of these two thoughts led me to think that 3D printing Braille clothing tags was a (nearly) obvious solution.&lt;/p&gt;
+&lt;p&gt;Two problems: I don&amp;rsquo;t read Braille (yet, though I &lt;em&gt;am&lt;/em&gt; learning) and all I knew about 3D printing was that it&amp;rsquo;s a thing. So, what&amp;rsquo;s to do? Ask the Internet, of course.&lt;/p&gt;
+&lt;p&gt;The answer, of course, is on GitHub, where user v01pe posted a tool to generate text to 3D printable Braille. How awesome is that? It&amp;rsquo;s an online tool &amp;ndash; in German &amp;ndash; that creates a downloadable file for a 3D printer.&lt;/p&gt;
+&lt;p&gt;So, I input my text and kept contracted Braille, the default, selected. I waited for a while, about a minute or so, and there was a downloadable STL file. I put it on a thumb drive and beetled off to the maker space in my public library.&lt;/p&gt;
+&lt;p&gt;The guy who worked there said the files were fine and ready to use. He set them up for me, trying various configurations to shorten the printing time (I was printing two of them at once), and let me choose a bright red plastic to print them in.&lt;/p&gt;
+&lt;p&gt;A couple of hours later, and I had printed Braille! [S]ee very short video.](&lt;a href=&#34;https://youtu.be/7SZFlv8hcZc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/7SZFlv8hcZc&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;I snapped off the extra printed base (you can see it on the printer shot, above) from one of them, but left the base on the other one so it could stand up.&lt;/p&gt;
+&lt;p&gt;It was fun and easy and made me feel clever, which doesn&amp;rsquo;t always happen a lot. 🙂 Even better: the plastic they use is biodegradable, although chemically stable for a number of years.&lt;/p&gt;
+&lt;p&gt;Clever AND virtuous.&lt;/p&gt;
+&lt;p&gt;Now, for it to be useful for my original purpose &amp;ndash; clothing markers &amp;ndash; I would need to learn a bit more: how to extend the piece and add a little hole to put the hanger&amp;rsquo;s head through. The library offers &amp;ldquo;3D printer certification&amp;rdquo; workshops, where they teach you the software and how to use it. I think I will sign up.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
