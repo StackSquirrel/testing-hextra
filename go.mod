@@ -1,4 +1,4 @@
-module github.com/StackSquirrel/hextra-test
+module github.com/StackSquirrel/testing-hextra
 
 go 1.20
 
